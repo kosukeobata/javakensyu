@@ -1,14 +1,10 @@
 package kensyu.practice;
-
 /**
  * @author kosuke
  */
-public class Hello {
+public class Aisatsu {
 
 	public static void main(String[] args) {
-		for (int i = 0; i < 10; i++) {
-			System.out.println("Hello!");
-		}
-		
+		System.out.println("こんにちは！");
 	}
 }
